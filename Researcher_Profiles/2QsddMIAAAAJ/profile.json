@@ -3,10 +3,10 @@
   "profile_url": "https://scholar.google.com/citations?user=2QsddMIAAAAJ&hl=en",
   "author_name": "Victor Fung",
   "author_affiliation": "Assistant Professor, Computational Science and Engineering, Georgia Institute of Technology",
-  "author_citations": "6078",
+  "author_citations": "6114",
   "research_keywords": "Materials discovery, Materials informatics, Computational Materials Science, AI for Science",
   "homepage": "https://www.fung-group.org/",
-  "tor_ip_used": "172.232.209.254",
-  "scrape_timestamp": "2026-03-12 07:09:08",
+  "tor_ip_used": "190.120.229.2",
+  "scrape_timestamp": "2026-03-20 06:56:17",
   "scrape_method": "direct_scholar_id"
 }
