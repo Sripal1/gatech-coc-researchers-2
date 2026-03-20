@@ -3,10 +3,10 @@
   "profile_url": "https://scholar.google.com/citations?user=zp8V7ZMAAAAJ&hl=en",
   "author_name": "Animesh Garg",
   "author_affiliation": "Georgia Institute of Technology, University of Toronto",
-  "author_citations": "14973",
+  "author_citations": "15151",
   "research_keywords": "Robotic Manipulation, Robot Learning, Reinforcement Learning, Machine Learning, Computer Vision",
   "homepage": "http://animesh.garg.tech/",
-  "tor_ip_used": "37.114.41.202",
-  "scrape_timestamp": "2026-03-12 07:10:25",
+  "tor_ip_used": "194.163.157.49",
+  "scrape_timestamp": "2026-03-20 05:56:16",
   "scrape_method": "direct_scholar_id"
 }

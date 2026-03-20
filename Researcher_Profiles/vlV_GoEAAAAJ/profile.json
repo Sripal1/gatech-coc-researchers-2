@@ -3,10 +3,10 @@
   "profile_url": "https://scholar.google.com/citations?user=vlV_GoEAAAAJ&hl=en",
   "author_name": "Ketan Bhardwaj",
   "author_affiliation": "Georgia Institute of Technology",
-  "author_citations": "767",
+  "author_citations": "766",
   "research_keywords": "Space, AI, Security, Edge Cloud, Distributed Systems",
   "homepage": "http://www.cc.gatech.edu/~kbhardwa/",
-  "tor_ip_used": "45.84.107.17",
-  "scrape_timestamp": "2026-03-12 07:04:19",
+  "tor_ip_used": "185.220.100.243",
+  "scrape_timestamp": "2026-03-20 05:49:42",
   "scrape_method": "direct_scholar_id"
 }
